@@ -1,6 +1,6 @@
 # WordleHeck
 
-#Install Prompt
+# Install Prompt
 ```
 npm install prompt
 ```
