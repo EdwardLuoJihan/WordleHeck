@@ -30,7 +30,7 @@ prompt.start();
 
 var target= [];
 
-prompt.get(['target'], function (err, result) {
+prompt.get('target', function (err, result) {
   if (err) {
     return onErr(err);
   }
